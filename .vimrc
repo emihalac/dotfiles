@@ -9,3 +9,6 @@ set softtabstop=4   "makes 'backspace' treat four spaces as tabs
 set expandtab       "insert spaces instead of tabs when Tab key pressed
 set listchars=tab:▸\ ,eol:¬ "specify which chars to use for showing whitespace
 
+" swap colon and semicolon
+noremap ; :
+noremap : ;
