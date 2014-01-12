@@ -12,3 +12,5 @@ set listchars=tab:▸\ ,eol:¬ "specify which chars to use for showing whitespac
 " swap colon and semicolon
 noremap ; :
 noremap : ;
+
+colorscheme elflord "personal preference
