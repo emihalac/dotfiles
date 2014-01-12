@@ -379,9 +379,28 @@
       <action name="Execute">
         <startupnotify>
           <enabled>true</enabled>
-          <name>Mediaplayer</name>
+          <name>Mnemosyne</name>
         </startupnotify>
-        <command>vlc</command>
+        <command>mnemosyne</command>
+      </action>
+    </keybind>
+    <keybind key="W-g">
+      <action name="Execute">
+        <startupnotify>
+          <enabled>true</enabled>
+          <name>Gnumeric</name>
+        </startupnotify>
+        <command>gnumeric</command>
+      </action>
+    </keybind>
+
+    <keybind key="W-c">
+      <action name="Execute">
+        <startupnotify>
+          <enabled>true</enabled>
+          <name>Calibre</name>
+        </startupnotify>
+        <command>calibre</command>
       </action>
     </keybind>
     <keybind key="W-h">

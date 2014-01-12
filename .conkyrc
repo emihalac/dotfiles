@@ -32,7 +32,7 @@ draw_shades no
 draw_outline no
 draw_borders no
 draw_graph_borders no
-default_color 656667
+default_color ebed70
 default_shade_color 000000
 default_outline_color 828282
 alignment top_right
@@ -65,7 +65,9 @@ Super+Tab$alignr Client Menu
 Super+t$alignr Tmux Terminal
 Super+f$alignr File Manager
 Super+e$alignr Editor
-Super+m$alignr Media Player
+Super+m$alignr Mnemosyne
+Super+g$alignr Gnumeric
+Super+c$alignr Calibre
 Super+w$alignr Web Browser
 Super+h$alignr Task Manager
 Super+l$alignr Lock Screen
