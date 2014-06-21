@@ -14,3 +14,5 @@ noremap ; :
 noremap : ;
 
 colorscheme elflord "personal preference
+
+set hlsearch
