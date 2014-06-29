@@ -16,3 +16,5 @@ noremap : ;
 colorscheme elflord "personal preference
 
 set hlsearch
+
+set is  "incremental search - show a preview of first match when searching
