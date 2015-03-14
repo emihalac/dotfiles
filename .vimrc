@@ -18,3 +18,5 @@ colorscheme elflord "personal preference
 set hlsearch
 
 set is  "incremental search - show a preview of first match when searching
+
+set history=200 "increase command history size
