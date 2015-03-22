@@ -13,7 +13,7 @@ set listchars=tab:▸\ ,eol:¬ "specify which chars to use for showing whitespac
 noremap ; :
 noremap : ;
 
-colorscheme elflord "personal preference
+colorscheme torte "personal preference
 
 set hlsearch
 
