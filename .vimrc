@@ -1,6 +1,5 @@
 set nocompatible    "make vim behave in a more useful way than the vi-compatible manner
 set number          "show line numbers
-set relativenumber  "show absolute number for current line, and relative numbers for the rest
 syntax on           "syntax highlighting
 
 " for better indentation
