@@ -26,3 +26,11 @@ cnoremap <C-p> <Up>
 cnoremap <C-n> <Down>
 
 execute pathogen#infect()
+
+"Needed for vim-airline
+set laststatus=2
+let g:airline#extensions#tabline#enabled = 1
+let g:AirlineTheme='wombat'
+
+"256-color terminal; vim-airline themes don't work without this
+set t_Co=256
