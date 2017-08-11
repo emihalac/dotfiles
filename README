@@ -1,0 +1,4 @@
+Additional environment setup:
+- install Pathogen for vim;
+- install vim-airline;
+- mkdir ~/.vim/undo;
