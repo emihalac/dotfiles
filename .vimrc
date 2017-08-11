@@ -21,13 +21,13 @@ set is  "incremental search - show a preview of first match when searching
 
 set history=200 "increase command history size
 
-"Make C-p/C-n behave identically to cursor keys when searching command history
+" Make C-p/C-n behave identically to cursor keys when searching command history
 cnoremap <C-p> <Up>
 cnoremap <C-n> <Down>
 
 execute pathogen#infect()
 
-"Needed for vim-airline
+" Needed for vim-airline
 set laststatus=2
 let g:airline#extensions#tabline#enabled = 1
 let g:AirlineTheme='wombat'
