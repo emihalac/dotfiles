@@ -34,3 +34,10 @@ let g:AirlineTheme='wombat'
 
 "256-color terminal; vim-airline themes don't work without this
 set t_Co=256
+
+" Persistent undo
+set undofile
+set undodir=$HOME/.vim/undo
+
+set undolevels=1000
+set undoreload=10000
