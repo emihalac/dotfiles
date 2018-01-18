@@ -2,3 +2,12 @@ Additional environment setup:
 - install Pathogen for vim;
 - install vim-airline;
 - mkdir ~/.vim/undo;
+- install Emacs packages:
+    Evil mode:
+    - M-x package-refresh-contents
+    - M-x package-install RET evil
+
+    Org mode:
+    - M-x package-refresh-contents
+    - M-x list-packages
+    - navigate to 'org' and click Install
